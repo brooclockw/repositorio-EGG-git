@@ -1,0 +1,30 @@
+.main{
+    background-color: greenyellow;
+    margin: 30px;
+    padding: 20px;
+    width: 500px;
+    height: 400px;
+    border: 2px solid;
+    
+}
+.hijo{
+    background-color: darkkhaki;
+    margin: 30px;
+    padding: 20px;
+    width: 400px;
+    height: 300px;
+    border: 2px solid;
+
+}
+.nieto{
+    margin: 15px;
+    padding: 5px;
+    width: 90%;
+    height: 85%;
+    background-color: lightgrey;
+    border: 2px solid;
+
+}
+body{
+    background-color: azure;
+}
